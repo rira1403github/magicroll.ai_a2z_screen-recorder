@@ -1,9 +1,29 @@
 <h1>AI-Powered Productivity Analyzer</h1>
 
 <p>A web application that captures and analyzes user screen activity to provide intelligent productivity insights. Features an interactive chat interface for querying daily activity summaries.</p>
-
 <h2>🔗 Repository</h2>
-<p><a href="git@github.com:rira1403github/magicroll.ai_a2z_screen-recorder.git">GitHub - magicroll.ai_a2z_screen-recorder</a></p>
+<p>
+  <a href="git@github.com:rira1403github/magicroll.ai_a2z_screen-recorder.git">
+    GitHub - magicroll.ai_a2z_screen-recorder
+  </a>
+</p>
+
+<h2>🚀 Live Demo</h2>
+<p>
+  <a href="https://magicroll-ai-a2z-screen-recorder-tv.vercel.app/" target="_blank">
+    magicroll.ai_a2z_screen-recorder on Vercel
+  </a>
+</p>
+
+<h2>🎥 Video Walkthrough</h2>
+<iframe 
+  src="https://www.loom.com/embed/e39a142a611a48a386eca006c0ef05db?sid=2731b6c9-e9e5-4e88-adcb-e815aba30d0d" 
+  frameborder="0" 
+  webkitallowfullscreen 
+  mozallowfullscreen 
+  allowfullscreen 
+  style="width:100%; height:480px; border-radius: 12px;">
+</iframe>
 
 <hr>
 
